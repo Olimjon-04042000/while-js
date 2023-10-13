@@ -428,5 +428,61 @@
 // case1
 
 
+// let m = +prompt("1 dan 7 gacha bo'lgan raqam kiriting:");
 
-cas
+// switch (m) {
+//     case 1:
+//         console.log("Dushanba");
+//         break;
+//     case 2:
+//         console.log("Seshanba");
+//         break;
+//     case 3:
+//         console.log("Chorshanba");
+//         break;
+//     case 4:
+//         console.log("Payshanba");
+//         break;
+//     case 5:
+//         console.log("Juma");
+//         break;
+//     case 6:
+//         console.log("Shanba");
+//         break;
+//     case 7:
+//         console.log("Yakshanba");
+//         break;
+
+//     default:
+//         console.log("Bunday hafta kuni yo'q.");
+//         break;
+// }
+
+
+
+// case2
+
+
+
+let m = +prompt("1 dan 5 gacha bo'lgan raqam kiriting:");
+
+switch (m) {
+    case 1:
+        console.log("Yomon");
+        break;
+    case 2:
+        console.log("Qoniqarsiz");
+        break;
+    case 3:
+        console.log("Qoniqarli");
+        break;
+    case 4:
+        console.log("Yaxshi");
+        break;
+    case 5:
+        console.log("A'lo");
+        break;
+    default:
+        console.log("Xato.");
+        break;
+}
